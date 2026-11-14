@@ -1,10 +1,10 @@
-<img src="banner.jpg" alt="Banner with a red sun torii gate sticker, a pink paper lantern, a cherry blossom and Mount Fuji sticker and a koi fish; text: Aryan, music, code, AI" width="100%"/>
+<img src="banner.jpg" alt="Banner with a red sun torii gate sticker, a pink paper lantern, a cherry blossom and Mount Fuji sticker and a koi fish; text: Axel, music, code, AI" width="100%"/>
 
-# Hey, I'm Aryan
+# Hey, I'm Axel
 
 **BCA Student · Aspiring AI & Data Science Engineer**
 
-Also known as Axel. I like music and movies, and I'm interested in how AI and data science work.
+I like music and movies, and I'm interested in how AI and data science work.
 
 <img src="collection.jpg" alt="Row of stickers: cherry blossoms, a red torii gate, a bridge under blossoms, a blossom tree on a disc and a ramen bowl" width="100%"/>
 
