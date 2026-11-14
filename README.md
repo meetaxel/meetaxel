@@ -1,4 +1,4 @@
-<img src="banner.jpg" alt="Banner with a red sun torii gate sticker, a pink paper lantern, a cherry blossom and Mount Fuji sticker and a koi fish; text: Axel, music, code, AI" width="100%"/>
+<img src="banner-axel.jpg" alt="Banner with a red sun torii gate sticker, a pink paper lantern, a cherry blossom and Mount Fuji sticker and a koi fish; text: Axel, music, code, AI" width="100%"/>
 
 # Hey, I'm Axel
 
