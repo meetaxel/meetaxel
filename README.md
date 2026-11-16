@@ -18,6 +18,7 @@ I like music and movies, and I'm interested in how AI and data science work.
 
 <p align="left">
 <a href="https://www.linkedin.com/in/axelopedia" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/></a>
+<a href="https://instagram.com/axel.apk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40"/></a>
 <a href="https://axelopedia.page.gd" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Portfolio-axelopedia-D7263D?style=for-the-badge" alt="Portfolio"/></a>
 </p>
 
