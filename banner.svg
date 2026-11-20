@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430">
+  <rect width="1200" height="430" fill="#F2EBDC"/>
+  <circle cx="965" cy="205" r="110" fill="#D7261E"/>
+  <text x="60" y="72" font-family="Georgia, 'Times New Roman', serif" font-size="15" letter-spacing="4" fill="#7A7266">ARYAN SINGH · AGRA, INDIA</text>
+  <text x="1140" y="72" text-anchor="end" font-family="Georgia, 'Times New Roman', serif" font-size="15" letter-spacing="4" fill="#7A7266">PORTFOLIO 2026</text>
+  <text x="86" y="145" font-family="Georgia, 'Times New Roman', serif" font-size="64" fill="#D7261E">夢</text>
+  <text x="60" y="285" font-family="Georgia, 'Times New Roman', serif" font-size="210" letter-spacing="6" fill="#14110D">AXEL</text>
+  <text x="64" y="340" font-family="Georgia, 'Times New Roman', serif" font-size="26" fill="#14110D">BCA student · Aspiring AI &amp; data science engineer</text>
+  <text x="64" y="392" font-family="Georgia, 'Times New Roman', serif" font-size="20" letter-spacing="3" fill="#7A7266"><tspan fill="#D7261E">夢</tspan><tspan> DREAM · </tspan><tspan fill="#D7261E">विरस</tspan><tspan> CRAFT · </tspan><tspan fill="#D7261E">学</tspan><tspan> LEARN</tspan></text>
+  <line x1="60" y1="415" x2="1140" y2="415" stroke="#14110D" stroke-width="1" opacity="0.35"/>
+</svg>
